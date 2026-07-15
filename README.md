@@ -1,5 +1,5 @@
 ## Prazer, meu nome é Matheus👋
-sou desenvolvedor Back-End com foco em java, Spring Boot, PostgreSQL
+sou desenvolvedor Back-End com foco em java, Spring Boot, PostgreSQL. Futuramente mirando no Full Stack.
 <!--
 **matheuskenjidev/matheuskenjidev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
