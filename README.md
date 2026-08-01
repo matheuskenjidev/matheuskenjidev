@@ -7,6 +7,7 @@ atualmente tenho conhecimentos em: <br>
 -POSTGRESQL<br>
 -GIT E GITHUB<br>
 -POSTMAN<br>
+<br>
 E estou estudando docker, me aprimorando no ecossistema do spring e também no uso de I.A para coisas repetitivas.
 Sempre criando projetos para consolidar meu coinhecimento e documentando no meu linkedin e github. Buscando minha 
 primeira oportunidade no mercado profissional como estagiário, trainee ou junior.<br>
