@@ -1,23 +1,23 @@
 ## Prazer, meu nome é Matheus👋
 sou desenvolvedor Back-End com foco em java, Spring Boot, PostgreSQL. Futuramente mirando no Full Stack.
 
-atualmente tenho conhecimentos em:
--JAVA
--SPRING
--POSTGRESQL
--GIT E GITHUB
--POSTMAN
+atualmente tenho conhecimentos em: <br>
+-JAVA<br>
+-SPRING<br>
+-POSTGRESQL<br>
+-GIT E GITHUB<br>
+-POSTMAN<br>
 E estou estudando docker, me aprimorando no ecossistema do spring e também no uso de I.A para coisas repetitivas.
 Sempre criando projetos e documentando no meu linkedin e github. Buscando minha primeira oportunidade no mercado profissional
-como estagiário, trainee ou junior.
+como estagiário, trainee ou junior.<br>
 
 OBS: minha stack principal é java, porém, linguagens e frameworks são apenas ferramentas para resolver um problema, então caso 
-venha alguma proposta de trabalho em outra linguagem, eu consigo me virar facilmente.
+venha alguma proposta de trabalho em outra linguagem, eu consigo me virar facilmente.<br>
 
-📫 Contato
-LinkedIn: https://linkedin.com/in/matheuskenjidev/
-Email: matheuskenjidev@gmail.com
+📫 Contato<br>
+LinkedIn: https://linkedin.com/in/matheuskenjidev/<br>
+Email: matheuskenjidev@gmail.com<br>
 
-⭐ Obrigado por visitar meu perfil!
+⭐ Obrigado por visitar meu perfil!<br>
 
 
