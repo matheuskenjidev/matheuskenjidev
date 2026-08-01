@@ -15,7 +15,7 @@ primeira oportunidade no mercado profissional como estagiário, trainee ou junio
 OBS: minha stack principal é java, porém, linguagens e frameworks são apenas ferramentas para resolver um problema, então caso 
 venha alguma proposta de trabalho em outra linguagem, eu consigo me virar facilmente.<br>
 <br>
--e CURSANDO ciências da computação até julho de 2030.
+CURSANDO ciências da computação até julho de 2030.
 
 📫 Contato<br>
 LinkedIn: https://linkedin.com/in/matheuskenjidev/<br>
