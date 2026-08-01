@@ -20,6 +20,7 @@ CURSANDO ciências da computação até julho de 2030.
 📫 Contato<br>
 LinkedIn: https://linkedin.com/in/matheuskenjidev/<br>
 Email: matheuskenjidev@gmail.com<br>
+Telefone(wpp): +55 (14) 99841-8103<br>
 
 ⭐ Obrigado por visitar meu perfil!<br>
 
