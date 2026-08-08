@@ -4,9 +4,14 @@ sou desenvolvedor Back-End com foco em java, Spring Boot, PostgreSQL. Futurament
 atualmente tenho conhecimentos em: <br>
 -JAVA<br>
 -SPRING<br>
+-SPRING BOOT<br>
+-SPRING SECURITY<br>
+-MYSQL<br>
+-POSTGRESQL<br>
 -POSTGRESQL<br>
 -GIT E GITHUB<br>
 -POSTMAN<br>
+-INSOMNIA<br>
 <br>
 E atualmente estou estudando docker, me aprimorando no ecossistema do spring e também no uso de I.A para coisas repetitivas.
 Sempre criando projetos para consolidar meu conhecimento e documentando no meu linkedin e github. Buscando minha 
