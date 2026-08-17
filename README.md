@@ -8,7 +8,6 @@ atualmente tenho conhecimentos em: <br>
 -SPRING SECURITY<br>
 -MYSQL<br>
 -POSTGRESQL<br>
--POSTGRESQL<br>
 -GIT E GITHUB<br>
 -POSTMAN<br>
 -INSOMNIA<br>
