@@ -11,6 +11,7 @@ atualmente tenho conhecimentos em: <br>
 -GIT E GITHUB<br>
 -POSTMAN<br>
 -INSOMNIA<br>
+-HTML E CSS<br>
 <br>
 E atualmente estou estudando docker, me aprimorando no ecossistema do spring e também no uso de I.A para coisas repetitivas.
 Sempre criando projetos para consolidar meu conhecimento e documentando no meu linkedin e github. Buscando minha 
