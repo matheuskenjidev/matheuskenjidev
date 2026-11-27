@@ -14,7 +14,7 @@ atualmente tenho conhecimentos em: <br>
 -HTML E CSS<br>
 -JAVASCRIPT ES6+<br>
 -REACTJS+<br>
--AWS
+-AWS<br>
 -Python
 <br>
 E atualmente estou estudando docker, me aprimorando no ecossistema do spring e também no uso de I.A para coisas repetitivas.
